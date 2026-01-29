@@ -1,4 +1,4 @@
-# 🚀 Welcome to Z.ai Code Scaffold
+# 🚀 Welcome to Kunal github account
 
 A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with Kunal code AI-powered coding assistance.
 
@@ -126,7 +126,7 @@ This scaffold includes a comprehensive set of modern web development tools:
 - **Type Safety**: End-to-end TypeScript with Zod validation
 - **Essential Hooks**: 100+ useful React hooks with ReactUse for common patterns
 
-## 🤝 Get Started with Z.ai
+## 🤝 Get Started with kunal kumar
 
 1. **Clone this scaffold** to jumpstart your project
 2. **Visit** keneynicxkunal github account
