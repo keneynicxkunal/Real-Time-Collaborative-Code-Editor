@@ -134,5 +134,6 @@ This scaffold includes a comprehensive set of modern web development tools:
 4. **Deploy with confidence** using the production-ready setup
 
 ---
-the server is live https://vercel.com/keneynicxkunals-projects/real-time-collaborative-code-editor
+the server is live(https://real-time-collaborative-code-editor-three.vercel.app/)
+
 but must be extension download and add your in PC Environment path then run the code 
